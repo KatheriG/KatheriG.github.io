@@ -3,12 +3,10 @@ layout: page
 title: Relaciones Públicas
 ---
 
-{{ content }}
-
 {% assign publicrelations = paginator.publicrelations | default: site.publicrelations %}
 
 <div class="posts-list">
-  {% for post in posts %}
+  {% for post in publicrelations %}
   <article class="post-preview">
 
     {%- capture thumbnail -%}
