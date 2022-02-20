@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Acerca de mi
+subtitle: 
 ---
 
 Soy estudiante de la carrera de licenciatura en mercadotecnia de la universidad Autónoma de Coahuila, encontrándome actualmente cursando el 5to semestre. 
