@@ -17,7 +17,7 @@ author: Katheri Guardiola
 
 navbar-links:
   Acerca de mi: "aboutme"
-  Relaciones publicas: "relacionespublicas"
+  Marketing de servicios: "marketing"
   Intereses: 
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -253,6 +253,12 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
