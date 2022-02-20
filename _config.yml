@@ -5,6 +5,8 @@
 
 # --- Required options --- #
 
+locale: "es-ES"
+
 # Name of website
 title: Katheri Guardiola
 

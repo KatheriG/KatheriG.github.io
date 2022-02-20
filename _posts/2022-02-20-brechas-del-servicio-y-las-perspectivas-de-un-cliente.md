@@ -5,6 +5,8 @@ tags: [tarea]
 comments: true
 ---
 
+<button type="button">Click Me!</button>
+
 En nuestra vida diaria todos nos vemos en la necesidad de utilizar servicios, mismos que nos ayudan a satisfacer nuestras necesidades, nosotros como clientes nos vemos en una constante creación de comparaciones acerca de los servicios que ocupamos y todo esto gira en torno a la calidad y satisfacción de acuerdo a nuestra percepción sobre dicho servicio, pero, ¿qué pasa cuando estos servicios no cumplen con las expectativas que tienen los clientes?
 
 Como consumidores muchas de las ocasiones nos encontramos expuestos a situaciones en las que nos hemos sentido insatisfechos con algún tipo de servicio recibido y que este no se haya adecuado a nuestras exigencias y expectativas, afortunadamente para las empresas existe algo llamado “Modelos de Brechas del Servicio” el cual es de suma importancia determinar aquellos problemas que generan resultados no esperados en los clientes y que también afectan en la calidad y la experiencia que el consumidor recibe del servicio, sería ideal que las empresas oferentes de servicios buscaran la forma de evitar que estas brechas se generen, ya que de generarse estas podrían traer problemas para la empresa, los cuales pueden ir desde una perdida en su flujo de clientes como una perdida en su flujo de ingresos a consecuencia de la primera.
