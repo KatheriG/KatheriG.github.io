@@ -16,7 +16,7 @@ author: Katheri Guardiola
 navbar-links:
   Acerca de mi: "aboutme"
   Relaciones publicas: "https://katherig.github.io/"
-  Intereses: "https://katherig.github.io/"
+  Intereses: 
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
 
