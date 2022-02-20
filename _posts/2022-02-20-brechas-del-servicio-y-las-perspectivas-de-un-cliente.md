@@ -5,9 +5,9 @@ tags: [marketing, servicios]
 comments: true
 ---
 
-<button name="PDF" class="btn"><img align = "left" alt = "PDF" width = "15px" src = https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/adobeacrobatreader.svg"/> &nbsp; <a style="text-decoration:none; color: inherit" href="https://katherig.github.io/files/">Descargar PDF</a> </button>
+<button name="PDF" class="btn"><img align = "left" alt = "PDF" width = "15px" src = https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/adobeacrobatreader.svg"> &nbsp; <a style="text-decoration:none; color: inherit" href="https://katherig.github.io/files/Brechas-del-servicio-y-la-perspectiva-de-un-cliente.pdf">Descargar PDF</a> </button>
 
-<button name="Word" class="btn"><img align = "left" alt = "Word" width = "15px" src = https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftword.svg"/> &nbsp; <a style="text-decoration:none; color: inherit" href="https://katherig.github.io/files/">Descargar Word</a> </button>
+<button name="Word" class="btn"><img align = "left" alt = "Word" width = "15px" src = https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftword.svg"> &nbsp; <a style="text-decoration:none; color: inherit" href="https://katherig.github.io/files/Brechas-del-servicio-y-la-perspectiva-de-un-cliente.docx">Descargar Word</a> </button>
 
 <div style="text-align:justify">
 En nuestra vida diaria todos nos vemos en la necesidad de utilizar servicios, mismos que nos ayudan a satisfacer nuestras necesidades, nosotros como clientes nos vemos en una constante creación de comparaciones acerca de los servicios que ocupamos y todo esto gira en torno a la calidad y satisfacción de acuerdo a nuestra percepción sobre dicho servicio, pero, <i>¿qué pasa cuando estos servicios no cumplen con las expectativas que tienen los clientes?</i>
