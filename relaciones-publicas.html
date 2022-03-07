@@ -3,10 +3,8 @@ layout: page
 title: Relaciones públicas
 ---
 
-{% assign posts = paginator.posts2 | default: site.posts2 %}
-
 <div class="posts-list">
-  {% for post in posts %}
+  {% for post in site.relaciones %}
   <article class="post-preview">
 
     {%- capture thumbnail -%}

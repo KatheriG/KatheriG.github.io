@@ -237,7 +237,7 @@ defaults:
   -
     scope:
       path: ""
-      type: "posts2"
+      type: "relaciones"
     values:
       layout: "post"
       comments: true  # add comments to all blog posts
