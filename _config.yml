@@ -17,9 +17,8 @@ author: Katheri Guardiola
 
 navbar-links:
   Acerca de mi: "aboutme"
-  Marketing de servicios: "marketing"
-  Relaciones públicas:  "relaciones-publicas"
-  Otros: 
+  Blog posts: "blog"
+  Otros intereses: 
     - Investigación de mercados: "https://katherig.github.io/"
     - Psicología en mecadotecnia: "https://katherig.github.io/"
 
