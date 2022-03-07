@@ -34,9 +34,9 @@ otras cosas. Por ejemplo, en dicha película cada personaje se dirige a cierto s
 </div>
 
 <a name="item1"></a> 
-## Pelicula obtenida de YouTube: "Amor por contrato"
+## "Amor por contrato"
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uH_RmQOczyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="350" src="https://www.youtube.com/embed/uH_RmQOczyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <button name="PDF" class="btn-adn"> <a style="text-decoration:none; color: inherit" href="https://katherig.github.io/files/Estrategias-de-investigación-y-públicos.pdf">Descargar en PDF</a> </button> &nbsp; <button name="Word" class="btn-adn"> <a style="text-decoration:none; color: inherit" href="https://katherig.github.io/files/Estrategias-de-investigación-y-públicos.docx">Descargar en Word</a> </button>
