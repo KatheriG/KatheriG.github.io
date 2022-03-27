@@ -28,13 +28,13 @@ Cada asiento de Volaris cuenta con una señalización con indicaciones como la u
 
 ## Referencias
 
-- Thusyanthy, Vadivelu and Senthilnathan, Samithambe and Senthilnathan, Samithambe, *Customer Satisfaction in Terms of Physical Evidence and Employee Interaction* (October 1, 2011). The IUP Journal of Marketing Management, XI (3), 2012, pp. 7-24., Available at SSRN: [https://ssrn.com/abstract=1939601](https://ssrn.com/abstract=1939601) or [http://dx.doi.org/10.2139/ssrn.1939601](http://dx.doi.org/10.2139/ssrn.1939601)
+- Thusyanthy, Vadivelu and Senthilnathan, Samithambe and Senthilnathan, Samithambe, *Customer Satisfaction in Terms of Physical Evidence and Employee Interaction* (October 1, 2011). The IUP Journal of Marketing Management, XI (3), 2012, pp. 7-24., **Available at SSRN:** [https://ssrn.com/abstract=1939601](https://ssrn.com/abstract=1939601) or [http://dx.doi.org/10.2139/ssrn.1939601](http://dx.doi.org/10.2139/ssrn.1939601)
 
-- Jenny Clis Ospina Limache. (2021). *Calidad de servicio y su influencia en la satisfacción del cliente de la empresa Súper Break Cafeterías y Salón de Tés, periodo 2019*. 22-03-2022, de Escuela Académico Profesional de Administración y Marketing Sitio web: [https://repositorio.continental.edu.pe/bitstream/20.500.12394/10236/3/IV_FCE_318_TI_Ospina_Limache_2021.pdf](https://repositorio.continental.edu.pe/bitstream/20.500.12394/10236/3/IV_FCE_318_TI_Ospina_Limache_2021.pdf)
+- Jenny Clis Ospina Limache. (2021). *Calidad de servicio y su influencia en la satisfacción del cliente de la empresa Súper Break Cafeterías y Salón de Tés, periodo 2019*. 22-03-2022, de Escuela Académico Profesional de Administración y Marketing **Sitio web:** [https://repositorio.continental.edu.pe/bitstream/20.500.12394/10236/3/IV_FCE_318_TI_Ospina_Limache_2021.pdf](https://repositorio.continental.edu.pe/bitstream/20.500.12394/10236/3/IV_FCE_318_TI_Ospina_Limache_2021.pdf)
 
-- Falquez Falquez, José Andrés. (2016). *Incidencia de la evidencia física tangible e intangible en la construcción de la ventaja competitiva en el sector de los restaurantes temáticos en la ciudad de Guayaquil en el año 2016*. 24-03-2022, de UNIVERSIDAD CATOLICA DE SANTIAGO DE GUAYAQUIL Sitio web: [http://201.159.223.180/bitstream/3317/5630/3/T-UCSG-PRE-ESP-CIM-162.pdf](http://201.159.223.180/bitstream/3317/5630/3/T-UCSG-PRE-ESP-CIM-162.pdf)
+- Falquez Falquez, José Andrés. (2016). *Incidencia de la evidencia física tangible e intangible en la construcción de la ventaja competitiva en el sector de los restaurantes temáticos en la ciudad de Guayaquil en el año 2016*. 24-03-2022, de UNIVERSIDAD CATOLICA DE SANTIAGO DE GUAYAQUIL **Sitio web:** [http://201.159.223.180/bitstream/3317/5630/3/T-UCSG-PRE-ESP-CIM-162.pdf](http://201.159.223.180/bitstream/3317/5630/3/T-UCSG-PRE-ESP-CIM-162.pdf)
 
-- Universidad Ecotec. (2018). *MARKETING DE SERVICIOS*. 24-02-2022, de Universidad Ecotec Sitio web: [https://www.ecotec.edu.ec/material-material_2018D_MKT433_01_97218.pdf](https://www.ecotec.edu.ec/material-material_2018D_MKT433_01_97218.pdf)
+- Universidad Ecotec. (2018). *MARKETING DE SERVICIOS*. 24-02-2022, de Universidad Ecotec **Sitio web:** [https://www.ecotec.edu.ec/material-material_2018D_MKT433_01_97218.pdf](https://www.ecotec.edu.ec/material-material_2018D_MKT433_01_97218.pdf)
 
 --------------------------------
 
