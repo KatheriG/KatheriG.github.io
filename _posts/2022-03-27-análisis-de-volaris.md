@@ -1,13 +1,13 @@
 ---
 layout: post
 title: El papel estratégico de la evidencia física en los servicios 
-subtitle: Volaris
+subtitle: Análisis de Volaris
 tags: [volaris, marketing, estrategias, servicios]
 comments: true
 ---
 
 <div style="text-align:justify">
-Volaris es una aerolínea mexicana clasificada como de ultra bajo costo, esta compañía fue fundada en el año 2004, esta se encuentra orientada a personas viajeras que solo requieran lo mínimo y por este motivo ofrece paquetes básicos que satisfagan las necesidades de quien haga uso de ella. Actualmente la aerolínea ha incrementado sus rutas tanto nacional como internacionalmente lo cual la ha posicionado como una de las más demandadas con respecto al servicio.
+Volaris es una aerolínea mexicana clasificada como de ultra bajo costo, esta compañía fue fundada en el año 2004, esta se encuentra orientada a personas viajeras que solo requieran lo mínimo y por este motivo ofrece paquetes básicos que satisfagan las necesidades de quien haga uso de ella. Actualmente la aerolínea ha incrementado sus rutas tanto nacional como internacionalmente lo cual la ha posicionado como una de las más demandadas con respecto al servicio.<br><br>
 <h3>Atractivos visuales</h3>
 Uno de los atractivos visuales con los que cuenta Volaris son los espacios más iluminados, asientos reclinables y cómodos con suficiente espacio para estirar las piernas, compartimentos y ventanas grandes, así como sanitarios espaciosos (dentro de la opinión de la empresa), estos aspectos son de suma importancia para el cliente ya que dentro de estos se ven comprometidos aspectos de la percepción que estos tienen hacia la compañía, pudiendo generar una sensación de comodidad, en su mayoría dentro de las instalaciones de los aviones predomina el color blanco y un negro grisáceo con pequeños detalles en morado en los asientos, utilizando una luz fría en su interior la cual es ideal para instalaciones donde los muebles son negros o grises como en este caso, ya que este tipo de luz fideliza con estos colores sin crear una distorsión en estos, por su parte el color blanco se caracteriza por transmitir paz, pureza y limpieza. <br><br>
 Por fuera sus aviones son de color blanco contando con detalles en color morado el cual se relaciona con una reducción del estrés, la creación de un ambiente de calma y la reducción de nervios, además de contener el logo de la compañía.

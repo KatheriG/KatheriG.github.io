@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Presentación "Análisis de Volaris" 
+title: Video "Análisis de Volaris" 
 tags: [volaris, marketing, atractivos, servicios, visuales]
 comments: true
 ---
@@ -19,7 +19,7 @@ El siguiente video tiene el propósito de analizar el entorno de servicio que ti
 
 ## Presentación (video)
 
-<video src="https://katherig.github.io/files/media/Volaris.mp4" width="640" height="480"></video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ohKFV_SducA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 --------------------------------
 
