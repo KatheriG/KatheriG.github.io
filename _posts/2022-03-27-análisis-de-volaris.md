@@ -1,0 +1,44 @@
+---
+layout: post
+title: El papel estratégico de la evidencia física en los servicios 
+subtitle: Volaris
+tags: [volaris, marketing, estrategias, servicios]
+comments: true
+---
+
+<div style="text-align:justify">
+Volaris es una aerolínea mexicana clasificada como de ultra bajo costo, esta compañía fue fundada en el año 2004, esta se encuentra orientada a personas viajeras que solo requieran lo mínimo y por este motivo ofrece paquetes básicos que satisfagan las necesidades de quien haga uso de ella. Actualmente la aerolínea ha incrementado sus rutas tanto nacional como internacionalmente lo cual la ha posicionado como una de las más demandadas con respecto al servicio.
+<h3>Atractivos visuales</h3>
+Uno de los atractivos visuales con los que cuenta Volaris son los espacios más iluminados, asientos reclinables y cómodos con suficiente espacio para estirar las piernas, compartimentos y ventanas grandes, así como sanitarios espaciosos (dentro de la opinión de la empresa), estos aspectos son de suma importancia para el cliente ya que dentro de estos se ven comprometidos aspectos de la percepción que estos tienen hacia la compañía, pudiendo generar una sensación de comodidad, en su mayoría dentro de las instalaciones de los aviones predomina el color blanco y un negro grisáceo con pequeños detalles en morado en los asientos, utilizando una luz fría en su interior la cual es ideal para instalaciones donde los muebles son negros o grises como en este caso, ya que este tipo de luz fideliza con estos colores sin crear una distorsión en estos, por su parte el color blanco se caracteriza por transmitir paz, pureza y limpieza. <br><br>
+Por fuera sus aviones son de color blanco contando con detalles en color morado el cual se relaciona con una reducción del estrés, la creación de un ambiente de calma y la reducción de nervios, además de contener el logo de la compañía.
+<h3>Sonido</h3>
+En cuestiones de sonidos Volaris ha implementado algunos cambios como unas variaciones en las velocidades esto con el fin de reducir ruidos que puedan resultar molestos para los clientes, aunado a esto Volaris ofrece una playlist para que sus pasajeros puedan escuchar en sus audífonos de manera personal, la cual se puede encontrar en su página oficial, permitiendo así la utilización de aparatos electrónicos durante todo el vuelo.
+<h3>Atractivos olfativos</h3>
+Durante su estancia en el vuelo Volaris ofrece una desinfección constante, así como un mantenimiento constante del aire limpio, permitiendo con esto que no proliferen aromas que para el cliente no serían muy agradables, dando así una mejor experiencia, incluso aplicando esto en las reglas que llevan a cabo para el ingreso de mascotas pidiendo que sus dueños lleven un neutralizador de aromas para que estos no sean molestos para los demás pasajeros, sin embargo y de acuerdo a opiniones expresadas por clientes esto no muchas veces es de esa manera ya que han expresado que se han encontrado con olores no muy agradables dentro de las instalaciones de sus aviones.
+<h3>Estímulos táctiles</h3>
+El estímulo táctil de Volaris se encuentra reflejado en la comodidad de los asientos, el que ellos pueden palpar la calidad de estos y asegurar si estos les causan una sensación positiva o por el contrario no son para nada de su agrado, sin embargo, fuera de esto no cuenta con algún otro estímulo palpable ya que aun en su clase “Premier” este no tiene algo más que los clientes puedan palpar, con esto refiriéndonos a aparatos tecnológicos como pantallas u otros objetos con los que otras aerolíneas si cuentan y los cuales pueden dar al cliente una experiencia más satisfactoria del servicio, siendo esto otro aspecto el cual Volaris tal vez debería de
+cuidar, sin olvidad y tomando en cuenta que Volaris es una empresa que se distingue por lo económico de sus vuelos, por lo que hay aspectos del servicio que se van a tener que “sacrificar” por otros que sean más tractivos para el cliente.
+<h3>Apelaciones al gusto</h3>
+Por su parte Volaris dentro de su servicio de transporte aéreo no ofrece al cliente algún estimulo gustativo, ya que esta compañía no ofrece algún tipo de snack o refrigerio a sus clientes, sin embargo, cuenta con un servicio llamado “Entre nubes” en el cual este servicio de alimentos se puede adquirir a precios que la compañía determina como accesibles pero que a opinión de los clientes son algo costosos, sin embargo, aun contando con este servicio “Entre nubes” deja abierta esa brecha en la mejora de la experiencia que tiene el cliente respecto al servicio ya que para los clientes es muy bien recibido el obtener este tipo de atenciones de manera gratuita por parte de las aerolíneas que escogen, pudiendo ser esta un área de oportunidad para Volaris, incluso siendo una manera de mantener una relación duradera con sus clientes o logrando una fidelización por parte de los nuevos.
+<h3>Espacio y funcionalidad</h3>
+En cuanto a las cuestiones de espacio y funcionalidad se podría decir que Volaris cumple con ellas en su mayoría de las veces, teniendo un buen espacio entre asientos, un buen tamaño de estos, así como de ventanas, aunque los baños son un tanto reducidos a comparación de lo que ellos como empresa dicen ofrecer, cuentan con el equipo necesario para la prestación del servicio, sin embargo, en cuanto a funcionalidad este aspecto a veces puede tender a fallar, un ejemplo de esto es que sus asientos cuentan con una función reclinable, función que puede o no ser funcional dependiendo del avión en el que se vaya a ofrecer el servicio, lo cual afecta en la percepción que el cliente tenga de este servicio si es su primera experiencia en él ya que de entrada será un aspecto malo que tal vez no cambié para él ya que no cuenta con alguna experiencia anterior a esa que haya resultado buena y con la que pueda hacer una comparación para definir si es algo completamente decepcionante desde su punto de vista o si eso afectaría en su decisión de más adelante volver a hacer uso del servicio.
+<h3>Signos, símbolos y artefactos</h3>
+Cada asiento de Volaris cuenta con una señalización con indicaciones como la ubicación del chaleco salvavidas, así como la indicación de abrocharse el cinturón de seguridad mientras se está sentado, además de contar con un folleto de información de seguridad el cual se encuentra al alcance del cliente y en el cual se habla sobre las medidas de seguridad que deben ser respetadas por estos, las cuales van desde la prohibición de cigarrillos, el uso de aparatos electrónicos, el uso de la mascarilla de oxígeno, posiciones de seguridad en caso de emergencia, casos de acuatizaje, aterrizaje de emergencia, entre otros, permitiendo de esta manera al cliente el acceso a información importante así como garantizar el orden.
+</div>
+
+## Referencias
+
+- Thusyanthy, Vadivelu and Senthilnathan, Samithambe and Senthilnathan, Samithambe, *Customer Satisfaction in Terms of Physical Evidence and Employee Interaction* (October 1, 2011). The IUP Journal of Marketing Management, XI (3), 2012, pp. 7-24., Available at SSRN: [https://ssrn.com/abstract=1939601](https://ssrn.com/abstract=1939601) or [http://dx.doi.org/10.2139/ssrn.1939601](http://dx.doi.org/10.2139/ssrn.1939601)
+
+- Jenny Clis Ospina Limache. (2021). *Calidad de servicio y su influencia en la satisfacción del cliente de la empresa Súper Break Cafeterías y Salón de Tés, periodo 2019*. 22-03-2022, de Escuela Académico Profesional de Administración y Marketing Sitio web: [https://repositorio.continental.edu.pe/bitstream/20.500.12394/10236/3/IV_FCE_318_TI_Ospina_Limache_2021.pdf](https://repositorio.continental.edu.pe/bitstream/20.500.12394/10236/3/IV_FCE_318_TI_Ospina_Limache_2021.pdf)
+
+- Falquez Falquez, José Andrés. (2016). *Incidencia de la evidencia física tangible e intangible en la construcción de la ventaja competitiva en el sector de los restaurantes temáticos en la ciudad de Guayaquil en el año 2016*. 24-03-2022, de UNIVERSIDAD CATOLICA DE SANTIAGO DE GUAYAQUIL Sitio web: [http://201.159.223.180/bitstream/3317/5630/3/T-UCSG-PRE-ESP-CIM-162.pdf](http://201.159.223.180/bitstream/3317/5630/3/T-UCSG-PRE-ESP-CIM-162.pdf)
+
+- Universidad Ecotec. (2018). *MARKETING DE SERVICIOS*. 24-02-2022, de Universidad Ecotec Sitio web: [https://www.ecotec.edu.ec/material-material_2018D_MKT433_01_97218.pdf](https://www.ecotec.edu.ec/material-material_2018D_MKT433_01_97218.pdf)
+
+--------------------------------
+
+<button name="PDF" class="btn-adn"> <a style="text-decoration:none; color: inherit" href="https://katherig.github.io/files/Análisis-de-Volaris.pdf">Descargar en PDF</a> </button> &nbsp; <button name="Word" class="btn-adn"> <a style="text-decoration:none; color: inherit" href="https://katherig.github.io/files/Análisis-de-Volaris.docx">Descargar en Word</a> </button>
+
+
+

@@ -19,8 +19,9 @@ Lo ideal sería que la expectativa y percepción sobre un servicio no difieran, 
 
 ## Referencias
 
-- Zendesk Inc. (2020). Informe de Zendesk sobre las tendencias de la experiencia del cliente de 2020. San Francisco, California, Estados Unidos: Zendesk Documentation, [https://zen-marketing-content.s3.amazonaws.com/content/resources/Zendesk_CX%20Trends%20Report%202020_Final_es-ES.pdf](https://zen-marketing-content.s3.amazonaws.com/content/resources/Zendesk_CX%20Trends%20Report%202020_Final_es-ES.pdf).
+- Zendesk Inc. (2020). *Informe de Zendesk sobre las tendencias de la experiencia del cliente de 2020*. San Francisco, California, Estados Unidos: Zendesk Documentation, [https://zen-marketing-content.s3.amazonaws.com/content/resources/Zendesk_CX%20Trends%20Report%202020_Final_es-ES.pdf](https://zen-marketing-content.s3.amazonaws.com/content/resources/Zendesk_CX%20Trends%20Report%202020_Final_es-ES.pdf).
 
+--------------------------------------------
 
 <button name="PDF" class="btn-adn"> <a style="text-decoration:none; color: inherit" href="https://katherig.github.io/files/Brechas-del-servicio-y-la-perspectiva-de-un-cliente.pdf">Descargar en PDF</a> </button> &nbsp; <button name="Word" class="btn-adn"> <a style="text-decoration:none; color: inherit" href="https://katherig.github.io/files/Brechas-del-servicio-y-la-perspectiva-de-un-cliente.docx">Descargar en Word</a> </button>
 
