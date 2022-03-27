@@ -19,7 +19,7 @@ Lo ideal sería que la expectativa y percepción sobre un servicio no difieran, 
 
 ## Referencias
 
-- Zendesk Inc. (2020). *Informe de Zendesk sobre las tendencias de la experiencia del cliente de 2020*. San Francisco, California, Estados Unidos: Zendesk Documentation, [https://zen-marketing-content.s3.amazonaws.com/content/resources/Zendesk_CX%20Trends%20Report%202020_Final_es-ES.pdf](https://zen-marketing-content.s3.amazonaws.com/content/resources/Zendesk_CX%20Trends%20Report%202020_Final_es-ES.pdf).
+- Zendesk Inc. (2020). *Informe de Zendesk sobre las tendencias de la experiencia del cliente de 2020*. San Francisco, California, Estados Unidos: Zendesk Documentation, **Obtenido de:** [https://zen-marketing-content.s3.amazonaws.com/content/resources/Zendesk_CX%20Trends%20Report%202020_Final_es-ES.pdf](https://zen-marketing-content.s3.amazonaws.com/content/resources/Zendesk_CX%20Trends%20Report%202020_Final_es-ES.pdf).
 
 --------------------------------------------
 

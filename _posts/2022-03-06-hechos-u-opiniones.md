@@ -18,9 +18,9 @@ En nuestros tiempos el contar con un criterio propio y un pensamiento crítico r
 
 - Borges, J. L. (1975). *El libro de arena*. Buenos Aires: Emecé. 
 
-- Calmels, J. (28 de AGOSTO de 2020). CNNE. Obtenido de CNNE: [https://cnnespanol.cnn.com/2020/08/28/confirman-que-un-nino-argentino-murio-por-ingerir-dioxido-de-cloro/](https://cnnespanol.cnn.com/2020/08/28/confirman-que-un-nino-argentino-murio-por-ingerir-dioxido-de-cloro/)
+- Calmels, J. (28 de AGOSTO de 2020). CNNE. **Obtenido de CNNE:** [https://cnnespanol.cnn.com/2020/08/28/confirman-que-un-nino-argentino-murio-por-ingerir-dioxido-de-cloro/](https://cnnespanol.cnn.com/2020/08/28/confirman-que-un-nino-argentino-murio-por-ingerir-dioxido-de-cloro/)
 
-- Organización Panamericana de la Salud. (16 de 07 de 2020). PAHO. Obtenido de PAHO: [https://iris.paho.org/bitstream/handle/10665.2/52484/OPSIMSPHECOVID-19200040_spa.pdf?sequence=5&isAllowed=y](https://iris.paho.org/bitstream/handle/10665.2/52484/OPSIMSPHECOVID-19200040_spa.pdf?sequence=5&isAllowed=y)
+- Organización Panamericana de la Salud. (16 de 07 de 2020). PAHO. **Obtenido de PAHO:** [https://iris.paho.org/bitstream/handle/10665.2/52484/OPSIMSPHECOVID-19200040_spa.pdf?sequence=5&isAllowed=y](https://iris.paho.org/bitstream/handle/10665.2/52484/OPSIMSPHECOVID-19200040_spa.pdf?sequence=5&isAllowed=y)
 
 --------------------------------------------
 

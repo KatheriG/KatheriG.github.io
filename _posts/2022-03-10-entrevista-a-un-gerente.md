@@ -5,10 +5,13 @@ tags: [entrevista, relaciones, públicas, estrategias]
 comments: true
 ---
 
-**Empresa**: Sugar Sweet Candy (Escuela de repostería y pasteles personalizados)
-**Empleados**: 35
+**Empresa**: Sugar Sweet Candy (Escuela de repostería y pasteles personalizados).
+
+**Empleados**: 35.
+
 **Localización**: Calle La Fragua #147, entre Juárez y Humboldt, Zona Centro.
-**Entrevistado**: Eduardo González
+
+**Entrevistado**: Eduardo González.
 
 <div style="text-align:justify">
 Dentro de la entrevista que se realizó se habló acerca de algunas estrategias de relaciones públicas que pone en marcha la empresa siendo estas interesantes ya que, al ser un negocio de repostería en conjunto con una escuela, aquí se interactúa con los públicos de manera muy constante y esto da oportunidad a la aplicación o la creación de algunas estrategias.<br><br>
