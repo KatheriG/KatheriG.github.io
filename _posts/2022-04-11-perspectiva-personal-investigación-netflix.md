@@ -2,7 +2,7 @@
 layout: post
 title: Perspectiva personal
 subtitle: Investigación: NETFLIX
-tags: [volaris, marketing, estrategias, servicios]
+tags: [Netflix, relaciones publicas, investigación, perspectiva]
 comments: true
 ---
 
