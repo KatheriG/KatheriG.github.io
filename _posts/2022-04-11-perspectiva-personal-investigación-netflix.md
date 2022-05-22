@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Perspectiva personal
-subtitle: Investigación: NETFLIX
+subtitle: Investigación de NETFLIX
 tags: [Netflix, relaciones publicas, investigación, perspectiva]
 comments: true
 ---
